@@ -1,20 +1,21 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite the associated manuscript or repository DOI."
+message: "If you use this repository, please cite it using the metadata below."
 title: "Physiological and subjective responses to indoor greenery: A controlled crossover experiment"
+type: dataset
 authors:
   - family-names: "Persiani"
     given-names: "Sandra G. L."
+    affiliation: "Technical University of Munich"
   - family-names: "Kobas"
     given-names: "Bilge"
-type: dataset
+    affiliation: "Technical University of Munich"
 repository-code: "https://github.com/SGLPersiani/green-placebo"
-abstract: "Data and analysis scripts for a controlled crossover experiment examining physiological and subjective responses to indoor greenery, artificial greenery, and visual greenery controls in an office-like indoor environment."
+version: "1.0.2"
+date-released: "2026-06-09"
+license: "CC-BY-4.0"
 keywords:
   - indoor greenery
+  - indoor plants
   - physiological response
-  - placebo
   - indoor environmental quality
-  - artificial greenery
   - crossover experiment
-  - office environment
-license: "NOASSERTION"
