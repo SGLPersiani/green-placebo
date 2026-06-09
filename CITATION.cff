@@ -7,7 +7,7 @@ authors:
   - family-names: "Kobas"
     given-names: "Bilge"
 type: dataset
-repository-code: "https://github.com/YOUR_USERNAME/green-placebo"
+repository-code: "https://github.com/SGLPersiani/green-placebo"
 abstract: "Data and analysis scripts for a controlled crossover experiment examining physiological and subjective responses to indoor greenery, artificial greenery, and visual greenery controls in an office-like indoor environment."
 keywords:
   - indoor greenery
