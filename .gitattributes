@@ -1,0 +1,9 @@
+# Keep text files normalized across platforms
+* text=auto
+
+# Treat office documents and figures as binary
+*.docx binary
+*.xlsx binary
+*.jpg binary
+*.jpeg binary
+*.png binary

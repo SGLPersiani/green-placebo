@@ -1,0 +1,48 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+ENV/
+.ipynb_checkpoints/
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+~$*
+Thumbs.db
+
+# Local configuration / secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Generated local outputs
+outputs/
+figures_tmp/
+temp/
+tmp/
+
+# Optional: uncomment these if raw/intermediate physiological data should not be public
+# 00_data/raw/
+# **/BVP2b.csv
+# **/EDA2b.csv
+# **/EDAClean.csv
+# **/HRV_features*.csv
